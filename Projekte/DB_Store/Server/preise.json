@@ -1,0 +1,293 @@
+{
+    "route":[
+        {"rb25":[
+            {"startpunkte":[
+                {"start":"gummersbach", "ziele":[
+                    {"ziel":"koelnhansaring", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "8.20"},
+                        {"ticket":"ticket1x4", "preis": "16.40"},
+                        {"ticket":"einzelticket2", "preis": "4.20"},
+                        {"ticket":"ticket2x4", "preis": "4.20"},
+                        {"ticket":"ticketM", "preis": "4.20"},
+                        {"ticket":"ticket24", "preis": "4.20"},
+                        {"ticket":"bike", "preis": "4.20"},
+                        {"ticket":"firstclass", "preis": "4.20"},
+                        {"ticket":"time", "preis": "4.20"}
+                    ]},
+                    {"ziel":"koelnhbf", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "8.20"},
+                        {"ticket":"ticket1x4", "preis": "16.40"},
+                        {"ticket":"einzelticket2", "preis": "4.20"},
+                        {"ticket":"ticket2x4", "preis": "4.20"},
+                        {"ticket":"ticketM", "preis": "4.20"},
+                        {"ticket":"ticket24", "preis": "4.20"},
+                        {"ticket":"bike", "preis": "4.20"},
+                        {"ticket":"firstclass", "preis": "4.20"},
+                        {"ticket":"time", "preis": "4.20"}
+                    ]},
+                    {"ziel":"koelndeutz", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "8.20"},
+                        {"ticket":"ticket1x4", "preis": "16.40"},
+                        {"ticket":"einzelticket2", "preis": "4.20"},
+                        {"ticket":"ticket2x4", "preis": "4.20"},
+                        {"ticket":"ticketM", "preis": "4.20"},
+                        {"ticket":"ticket24", "preis": "4.20"},
+                        {"ticket":"bike", "preis": "4.20"},
+                        {"ticket":"firstclass", "preis": "4.20"},
+                        {"ticket":"time", "preis": "4.20"}
+                    ]}
+                ]},
+
+
+
+
+
+
+                {"start":"gummersbachdieringhausen", "ziele":[
+                    {"ziel":"koelnhansaring", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "7.38"},
+                        {"ticket":"ticket1x4", "preis": "29.52"},
+                        {"ticket":"einzelticket2", "preis": "3.42"},
+                        {"ticket":"ticket2x4", "preis": "12.96"},
+                        {"ticket":"ticketM", "preis": "18.20"},
+                        {"ticket":"ticket24", "preis": "18.14"},
+                        {"ticket":"bike", "preis": "10.20"},
+                        {"ticket":"firstclass", "preis": "3.89"},
+                        {"ticket":"time", "preis": "58.04"}
+                    ]},
+                    {"ziel":"koelnhbf", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "7.38"},
+                        {"ticket":"ticket1x4", "preis": "29.52"},
+                        {"ticket":"einzelticket2", "preis": "3.42"},
+                        {"ticket":"ticket2x4", "preis": "12.96"},
+                        {"ticket":"ticketM", "preis": "18.20"},
+                        {"ticket":"ticket24", "preis": "18.14"},
+                        {"ticket":"bike", "preis": "10.20"},
+                        {"ticket":"firstclass", "preis": "3.89"},
+                        {"ticket":"time", "preis": "58.04"}
+                    ]},
+                    {"ziel":"koelndeutz", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "7.38"},
+                        {"ticket":"ticket1x4", "preis": "29.52"},
+                        {"ticket":"einzelticket2", "preis": "3.42"},
+                        {"ticket":"ticket2x4", "preis": "12.96"},
+                        {"ticket":"ticketM", "preis": "18.20"},
+                        {"ticket":"ticket24", "preis": "18.14"},
+                        {"ticket":"bike", "preis": "10.20"},
+                        {"ticket":"firstclass", "preis": "3.89"},
+                        {"ticket":"time", "preis": "58.04"}
+                    ]},
+                    {"ziel":"overath", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "4.77"},
+                        {"ticket":"ticket1x4", "preis": "19.08"},
+                        {"ticket":"einzelticket2", "preis": "2.34"},
+                        {"ticket":"ticket2x4", "preis": "9.36"},
+                        {"ticket":"ticketM", "preis": "16.20"},
+                        {"ticket":"ticket24", "preis": "13.20"},
+                        {"ticket":"bike", "preis": "6.77"},
+                        {"ticket":"firstclass", "preis": "2.56"},
+                        {"ticket":"time", "preis": "39.33"}
+                    ]},
+                    {"ziel":"engels", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "2.70"},
+                        {"ticket":"ticket1x4", "preis": "10.80"},
+                        {"ticket":"einzelticket2", "preis": "1.44"},
+                        {"ticket":"ticket2x4", "preis": "5.76"},
+                        {"ticket":"ticketM", "preis": "14.20"},
+                        {"ticket":"ticket24", "preis": "8.36"},
+                        {"ticket":"bike", "preis": "4.70"},
+                        {"ticket":"firstclass", "preis": "1,42"},
+                        {"ticket":"time", "preis": "25.84"}
+                    ]},
+                    {"ziel":"gmbach", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "2.25"},
+                        {"ticket":"ticket1x4", "preis": "9.00"},
+                        {"ticket":"einzelticket2", "preis": "1.17"},
+                        {"ticket":"ticket2x4", "preis": "4.68"},
+                        {"ticket":"ticketM", "preis": "7.00"},
+                        {"ticket":"ticket24", "preis": "6.93"},
+                        {"ticket":"bike", "preis": "4.25"},
+                        {"ticket":"firstclass", "preis": "1.23"},
+                        {"ticket":"time", "preis": "18.71"}
+                    ]},
+                    {"ziel":"trimborn", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "7.38"},
+                        {"ticket":"ticket1x4", "preis": "29.52"},
+                        {"ticket":"einzelticket2", "preis": "3.42"},
+                        {"ticket":"ticket2x4", "preis": "12.96"},
+                        {"ticket":"ticketM", "preis": "18.20"},
+                        {"ticket":"ticket24", "preis": "18.14"},
+                        {"ticket":"bike", "preis": "10.20"},
+                        {"ticket":"firstclass", "preis": "3.89"},
+                        {"ticket":"time", "preis": "58.04"}
+                    ]},
+                    {"ziel":"frankfurter", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "7.38"},
+                        {"ticket":"ticket1x4", "preis": "29.52"},
+                        {"ticket":"einzelticket2", "preis": "3.42"},
+                        {"ticket":"ticket2x4", "preis": "12.96"},
+                        {"ticket":"ticketM", "preis": "18.20"},
+                        {"ticket":"ticket24", "preis": "18.14"},
+                        {"ticket":"bike", "preis": "10.20"},
+                        {"ticket":"firstclass", "preis": "3.89"},
+                        {"ticket":"time", "preis": "58.04"}
+                    ]},
+                    {"ziel":"stümpen", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "7.38"},
+                        {"ticket":"ticket1x4", "preis": "29.52"},
+                        {"ticket":"einzelticket2", "preis": "3.42"},
+                        {"ticket":"ticket2x4", "preis": "12.96"},
+                        {"ticket":"ticketM", "preis": "18.20"},
+                        {"ticket":"ticket24", "preis": "18.14"},
+                        {"ticket":"bike", "preis": "10.20"},
+                        {"ticket":"firstclass", "preis": "3.89"},
+                        {"ticket":"time", "preis": "58.04"}
+                    ]},
+                    {"ziel":"rösrath", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "7.38"},
+                        {"ticket":"ticket1x4", "preis": "29.52"},
+                        {"ticket":"einzelticket2", "preis": "3.42"},
+                        {"ticket":"ticket2x4", "preis": "12.96"},
+                        {"ticket":"ticketM", "preis": "18.20"},
+                        {"ticket":"ticket24", "preis": "18.14"},
+                        {"ticket":"bike", "preis": "10.20"},
+                        {"ticket":"firstclass", "preis": "3.89"},
+                        {"ticket":"time", "preis": "58.04"}
+                    ]},
+                    {"ziel":"hoffnung", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "7.38"},
+                        {"ticket":"ticket1x4", "preis": "29.52"},
+                        {"ticket":"einzelticket2", "preis": "3.42"},
+                        {"ticket":"ticket2x4", "preis": "12.96"},
+                        {"ticket":"ticketM", "preis": "18.20"},
+                        {"ticket":"ticket24", "preis": "18.14"},
+                        {"ticket":"bike", "preis": "10.20"},
+                        {"ticket":"firstclass", "preis": "3.89"},
+                        {"ticket":"time", "preis": "58.04"}
+                    ]},
+                    {"ziel":"honrath", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "7.38"},
+                        {"ticket":"ticket1x4", "preis": "29.52"},
+                        {"ticket":"einzelticket2", "preis": "3.42"},
+                        {"ticket":"ticket2x4", "preis": "12.96"},
+                        {"ticket":"ticketM", "preis": "18.20"},
+                        {"ticket":"ticket24", "preis": "18.14"},
+                        {"ticket":"bike", "preis": "10.20"},
+                        {"ticket":"firstclass", "preis": "3.89"},
+                        {"ticket":"time", "preis": "58.04"}
+                    ]},
+                    {"ziel":"ründerr", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "2.70"},
+                        {"ticket":"ticket1x4", "preis": "10.80"},
+                        {"ticket":"einzelticket2", "preis": "1.44"},
+                        {"ticket":"ticket2x4", "preis": "5.76"},
+                        {"ticket":"ticketM", "preis": "14.20"},
+                        {"ticket":"ticket24", "preis": "8.36"},
+                        {"ticket":"bike", "preis": "4.70"},
+                        {"ticket":"firstclass", "preis": "1,42"},
+                        {"ticket":"time", "preis": "25.84"}
+                    ]},
+                    {"ziel":"marienh", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "2.70"},
+                        {"ticket":"ticket1x4", "preis": "10.80"},
+                        {"ticket":"einzelticket2", "preis": "1.44"},
+                        {"ticket":"ticket2x4", "preis": "5.76"},
+                        {"ticket":"ticketM", "preis": "14.20"},
+                        {"ticket":"ticket24", "preis": "8.36"},
+                        {"ticket":"bike", "preis": "4.70"},
+                        {"ticket":"firstclass", "preis": "1,42"},
+                        {"ticket":"time", "preis": "25.84"}
+                    ]},
+                    {"ziel":"meinerz", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "2.70"},
+                        {"ticket":"ticket1x4", "preis": "10.80"},
+                        {"ticket":"einzelticket2", "preis": "1.44"},
+                        {"ticket":"ticket2x4", "preis": "5.76"},
+                        {"ticket":"ticketM", "preis": "14.20"},
+                        {"ticket":"ticket24", "preis": "8.36"},
+                        {"ticket":"bike", "preis": "4.70"},
+                        {"ticket":"firstclass", "preis": "1,42"},
+                        {"ticket":"time", "preis": "25.84"}
+                    ]},
+                    {"ziel":"kierspe", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "4.77"},
+                        {"ticket":"ticket1x4", "preis": "19.08"},
+                        {"ticket":"einzelticket2", "preis": "2.34"},
+                        {"ticket":"ticket2x4", "preis": "9.36"},
+                        {"ticket":"ticketM", "preis": "16.20"},
+                        {"ticket":"ticket24", "preis": "13.20"},
+                        {"ticket":"bike", "preis": "6.77"},
+                        {"ticket":"firstclass", "preis": "2.56"},
+                        {"ticket":"time", "preis": "39.33"}
+                    ]},
+                    {"ziel":"halver", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "7.38"},
+                        {"ticket":"ticket1x4", "preis": "29.52"},
+                        {"ticket":"einzelticket2", "preis": "3.42"},
+                        {"ticket":"ticket2x4", "preis": "12.96"},
+                        {"ticket":"ticketM", "preis": "18.20"},
+                        {"ticket":"ticket24", "preis": "18.14"},
+                        {"ticket":"bike", "preis": "10.20"},
+                        {"ticket":"firstclass", "preis": "3.89"},
+                        {"ticket":"time", "preis": "58.04"}
+                    ]},
+                    {"ziel":"lüdenscheid", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "7.38"},
+                        {"ticket":"ticket1x4", "preis": "29.52"},
+                        {"ticket":"einzelticket2", "preis": "3.42"},
+                        {"ticket":"ticket2x4", "preis": "12.96"},
+                        {"ticket":"ticketM", "preis": "18.20"},
+                        {"ticket":"ticket24", "preis": "18.14"},
+                        {"ticket":"bike", "preis": "10.20"},
+                        {"ticket":"firstclass", "preis": "3.89"},
+                        {"ticket":"time", "preis": "58.04"}
+                    ]}
+                ]},
+
+
+
+
+
+
+                {"start":"engelskirchen", "ziele":[
+                    {"ziel":"koelnhansaring", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "8.20"},
+                        {"ticket":"ticket1x4", "preis": "16.40"},
+                        {"ticket":"einzelticket2", "preis": "4.20"},
+                        {"ticket":"ticket2x4", "preis": "4.20"},
+                        {"ticket":"ticketM", "preis": "4.20"},
+                        {"ticket":"ticket24", "preis": "4.20"},
+                        {"ticket":"bike", "preis": "4.20"},
+                        {"ticket":"firstclass", "preis": "4.20"},
+                        {"ticket":"time", "preis": "4.20"}
+                    ]},
+                    {"ziel":"koelnhbf", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "8.20"},
+                        {"ticket":"ticket1x4", "preis": "16.40"},
+                        {"ticket":"einzelticket2", "preis": "4.20"},
+                        {"ticket":"ticket2x4", "preis": "4.20"},
+                        {"ticket":"ticketM", "preis": "4.20"},
+                        {"ticket":"ticket24", "preis": "4.20"},
+                        {"ticket":"bike", "preis": "4.20"},
+                        {"ticket":"firstclass", "preis": "4.20"},
+                        {"ticket":"time", "preis": "4.20"}
+                    ]},
+                    {"ziel":"koelndeutz", "ticketart":[
+                        {"ticket":"einzelticket1", "preis": "8.20"},
+                        {"ticket":"ticket1x4", "preis": "16.40"},
+                        {"ticket":"einzelticket2", "preis": "4.20"},
+                        {"ticket":"ticket2x4", "preis": "4.20"},
+                        {"ticket":"ticketM", "preis": "4.20"},
+                        {"ticket":"ticket24", "preis": "4.20"},
+                        {"ticket":"bike", "preis": "4.20"},
+                        {"ticket":"firstclass", "preis": "4.20"},
+                        {"ticket":"time", "preis": "4.20"}
+                    ]}
+                ]}
+            ]}
+        ]}
+    ]
+}
+            
+
+    

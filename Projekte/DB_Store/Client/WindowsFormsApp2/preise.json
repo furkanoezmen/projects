@@ -1,0 +1,183 @@
+{
+  "route": [
+    {
+      "rb25": [
+        {
+          "startpunkte": [
+            {
+              "start": "gummersbach",
+              "ziele": [
+                {
+                  "ziel": "koelnhansaring",
+                  "ticketart": [
+                    {
+                      "ticket": "einzelticket1",
+                      "preis": "8.20"
+                    },
+                    {
+                      "ticket": "einzelticket1x4",
+                      "preis": "16.40"
+                    },
+                    {
+                      "ticket": "einzelticket2",
+                      "preis": "4.20"
+                    }
+                  ]
+                },
+                {
+                  "ziel": "koelnhbf",
+                  "ticketart": [
+                    {
+                      "ticket": "einzelticket1",
+                      "preis": "8.20"
+                    },
+                    {
+                      "ticket": "einzelticket1x4",
+                      "preis": "16.40"
+                    },
+                    {
+                      "ticket": "einzelticket2",
+                      "preis": "4.20"
+                    }
+                  ]
+                },
+                {
+                  "ziel": "koelndeutz",
+                  "ticketart": [
+                    {
+                      "ticket": "einzelticket1",
+                      "preis": "8.20"
+                    },
+                    {
+                      "ticket": "einzelticket1x4",
+                      "preis": "16.40"
+                    },
+                    {
+                      "ticket": "einzelticket2",
+                      "preis": "4.20"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "start": "gummersbachdieringhausen",
+              "ziele": [
+                {
+                  "ziel": "koelnhansaring",
+                  "ticketart": [
+                    {
+                      "ticket": "einzelticket1",
+                      "preis": "8.20"
+                    },
+                    {
+                      "ticket": "einzelticket1x4",
+                      "preis": "16.40"
+                    },
+                    {
+                      "ticket": "einzelticket2",
+                      "preis": "4.20"
+                    }
+                  ]
+                },
+                {
+                  "ziel": "koelnhbf",
+                  "ticketart": [
+                    {
+                      "ticket": "einzelticket1",
+                      "preis": "8.20"
+                    },
+                    {
+                      "ticket": "einzelticket1x4",
+                      "preis": "16.40"
+                    },
+                    {
+                      "ticket": "einzelticket2",
+                      "preis": "4.20"
+                    }
+                  ]
+                },
+                {
+                  "ziel": "koelndeutz",
+                  "ticketart": [
+                    {
+                      "ticket": "einzelticket1",
+                      "preis": "8.20"
+                    },
+                    {
+                      "ticket": "einzelticket1x4",
+                      "preis": "16.40"
+                    },
+                    {
+                      "ticket": "einzelticket2",
+                      "preis": "4.20"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "start": "engelskirchen",
+              "ziele": [
+                {
+                  "ziel": "koelnhansaring",
+                  "ticketart": [
+                    {
+                      "ticket": "einzelticket1",
+                      "preis": "8.20"
+                    },
+                    {
+                      "ticket": "einzelticket1x4",
+                      "preis": "16.40"
+                    },
+                    {
+                      "ticket": "einzelticket2",
+                      "preis": "4.20"
+                    }
+                  ]
+                },
+                {
+                  "ziel": "koelnhbf",
+                  "ticketart": [
+                    {
+                      "ticket": "einzelticket1",
+                      "preis": "8.20"
+                    },
+                    {
+                      "ticket": "einzelticket1x4",
+                      "preis": "16.40"
+                    },
+                    {
+                      "ticket": "einzelticket2",
+                      "preis": "4.20"
+                    }
+                  ]
+                },
+                {
+                  "ziel": "koelndeutz",
+                  "ticketart": [
+                    {
+                      "ticket": "einzelticket1",
+                      "preis": "8.20"
+                    },
+                    {
+                      "ticket": "einzelticket1x4",
+                      "preis": "16.40"
+                    },
+                    {
+                      "ticket": "einzelticket2",
+                      "preis": "4.20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+            
+
+    
