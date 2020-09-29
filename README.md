@@ -7,4 +7,3 @@ der als Zahlungsart PayPal implementiert hat. Der Server wurde in NodeJs program
 C# (WindowsFormsApp). Der Client läuft auf einen Raspberry PI 3B und als Touchbildschirm wurde ein 7 Zoll 
 Monitor von UPerfect verwendet.
 
-https://youtu.be/oV3C9hcawNU
