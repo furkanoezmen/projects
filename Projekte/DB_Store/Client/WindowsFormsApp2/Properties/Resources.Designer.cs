@@ -273,6 +273,16 @@ namespace WindowsFormsApp2.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Background_Startbildschrim__9_ {
+            get {
+                object obj = ResourceManager.GetObject("Background_Startbildschrim (9)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap backgrounnd2 {
             get {
                 object obj = ResourceManager.GetObject("backgrounnd2", resourceCulture);
@@ -333,9 +343,129 @@ namespace WindowsFormsApp2.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap backgrounnd2__14_ {
+            get {
+                object obj = ResourceManager.GetObject("backgrounnd2 (14)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backgrounnd2__15_ {
+            get {
+                object obj = ResourceManager.GetObject("backgrounnd2 (15)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backgrounnd2__16_ {
+            get {
+                object obj = ResourceManager.GetObject("backgrounnd2 (16)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backgrounnd2__17_ {
+            get {
+                object obj = ResourceManager.GetObject("backgrounnd2 (17)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backgrounnd2__18_ {
+            get {
+                object obj = ResourceManager.GetObject("backgrounnd2 (18)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backgrounnd2__19_ {
+            get {
+                object obj = ResourceManager.GetObject("backgrounnd2 (19)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap backgrounnd2__2_ {
             get {
                 object obj = ResourceManager.GetObject("backgrounnd2 (2)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backgrounnd2__20_ {
+            get {
+                object obj = ResourceManager.GetObject("backgrounnd2 (20)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backgrounnd2__21_ {
+            get {
+                object obj = ResourceManager.GetObject("backgrounnd2 (21)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backgrounnd2__22_ {
+            get {
+                object obj = ResourceManager.GetObject("backgrounnd2 (22)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backgrounnd2__23_ {
+            get {
+                object obj = ResourceManager.GetObject("backgrounnd2 (23)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backgrounnd2__24_ {
+            get {
+                object obj = ResourceManager.GetObject("backgrounnd2 (24)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap backgrounnd2__25_ {
+            get {
+                object obj = ResourceManager.GetObject("backgrounnd2 (25)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -576,6 +706,16 @@ namespace WindowsFormsApp2.Properties {
         internal static System.Drawing.Bitmap Fotolia_30671747_XS {
             get {
                 object obj = ResourceManager.GetObject("Fotolia_30671747_XS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Group_1 {
+            get {
+                object obj = ResourceManager.GetObject("Group 1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -406,7 +406,7 @@
             // Form1
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.backgrounnd2__10_;
+            this.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.backgrounnd2__25_;
             this.ClientSize = new System.Drawing.Size(1362, 765);
             this.ControlBox = false;
             this.Controls.Add(this.Zeitkarte);

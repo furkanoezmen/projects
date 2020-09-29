@@ -124,6 +124,9 @@
   <data name="Abbrechen (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Abbrechen (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="backgrounnd2 (24)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (24).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Zahlungserklärung (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Zahlungserklärung (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -139,8 +142,14 @@
   <data name="Zuschlag1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Zuschlag1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Background_Startbildschrim (9)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Background_Startbildschrim (9).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Nach" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Nach.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="backgrounnd2 (20)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (20).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Einzelticketerwachsener__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Einzelticketerwachsener (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -151,17 +160,29 @@
   <data name="Background_Startbildschrim (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Background_Startbildschrim (8).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="backgrounnd2 (9)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (9).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Zahlungsartenerklärung" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Zahlungsartenerklärung.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Einzelticketkind" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Einzelticketkind.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="image 16 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\image 16 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Einzelticketerwachsener" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Einzelticketerwachsener.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="backgrounnd2 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\backgrounnd2 (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="backgrounnd2 (19)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (19).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="backgrounnd2 (23)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (23).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Bezahlen" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Bezahlen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -172,8 +193,8 @@
   <data name="Background_Startbildschrim (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Background_Startbildschrim (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="backgrounnd2 (12)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\backgrounnd2 (12).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="backgrounnd2 (22)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (22).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="fahrkartenautomat 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\fahrkartenautomat 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -181,14 +202,29 @@
   <data name="pfeil" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pfeil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Background_Startbildschrim (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Background_Startbildschrim (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="backgrounnd2 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\backgrounnd2 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="backgrounnd2 (25)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (25).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="backgrounnd2 (18)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (18).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="DB-Gutschein (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\DB-Gutschein (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="zurück" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\zurück.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="backgrounnd2 (12)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (12).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="backgrounnd2 (15)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (15).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Menürechts" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Menürechts.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -205,8 +241,11 @@
   <data name="hambutton" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\hambutton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Zahlungserklärung (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Zahlungserklärung (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="backgrounnd2 (21)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (21).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="backgrounnd2 (14)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (14).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Background_Startbildschrim (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Background_Startbildschrim (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -214,8 +253,8 @@
   <data name="fahrkartenautomat 1 (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\fahrkartenautomat 1 (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="backgrounnd2 (9)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\backgrounnd2 (9).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Zahlungserklärung (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Zahlungserklärung (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="fahrkartenautomat 1 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\fahrkartenautomat 1 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -232,6 +271,9 @@
   <data name="4erticketerwachsener" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4erticketerwachsener.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="_24stundenrot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\24stundenrot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Background_Startbildschrim (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Background_Startbildschrim (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -241,14 +283,11 @@
   <data name="Background_Startbildschrim (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Background_Startbildschrim (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="backgrounnd2 (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\backgrounnd2 (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Background_Startbildschrim (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Background_Startbildschrim (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="backgrounnd2 (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\backgrounnd2 (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="backgrounnd2 (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="4erticketmobilpass" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4erticketmobilpass.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -274,6 +313,9 @@
   <data name="backgrounnd2 (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\backgrounnd2 (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="backgrounnd2 (17)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (17).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_4erticketErot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4erticketErot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -292,8 +334,8 @@
   <data name="firstclassrot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\firstclassrot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Zuschlag" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Zuschlag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="backgrounnd2 (16)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\backgrounnd2 (16).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Fotolia_30671747_XS" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Fotolia_30671747_XS.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -303,6 +345,9 @@
   </data>
   <data name="backgrounnd2 (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\backgrounnd2 (6).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Zuschlag" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Zuschlag.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Zahlungsartenerklärung (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Zahlungsartenerklärung (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -340,10 +385,7 @@
   <data name="Zeitkarten" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Zeitkarten.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="image 16 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\image 16 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_24stundenrot" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\24stundenrot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Group 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

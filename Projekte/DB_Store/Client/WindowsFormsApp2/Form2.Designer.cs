@@ -135,7 +135,7 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.fahrkartenautomat_1__2_;
+            this.pictureBox4.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.Group_1;
             this.pictureBox4.Location = new System.Drawing.Point(121, 161);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(258, 426);
@@ -174,7 +174,7 @@
             // Form2
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.backgrounnd2__10_;
+            this.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.backgrounnd2__25_;
             this.ClientSize = new System.Drawing.Size(1362, 765);
             this.ControlBox = false;
             this.Controls.Add(this.button4);

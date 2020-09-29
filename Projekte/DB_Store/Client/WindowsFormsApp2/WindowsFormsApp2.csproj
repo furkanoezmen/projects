@@ -330,5 +330,47 @@
   <ItemGroup>
     <None Include="Resources\24stundenrot.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background_Startbildschrim %289%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounnd2 %2814%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounnd2 %2815%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounnd2 %2816%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounnd2 %2817%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounnd2 %2818%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounnd2 %2819%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounnd2 %2820%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounnd2 %2821%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounnd2 %2822%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounnd2 %2823%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounnd2 %2824%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgrounnd2 %2825%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

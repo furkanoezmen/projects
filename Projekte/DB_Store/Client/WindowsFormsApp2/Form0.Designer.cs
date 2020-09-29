@@ -978,7 +978,7 @@
             // Form0
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.Background_Startbildschrim__8_;
+            this.BackgroundImage = global::WindowsFormsApp2.Properties.Resources.Background_Startbildschrim__9_;
             this.ClientSize = new System.Drawing.Size(1703, 956);
             this.ControlBox = false;
             this.Controls.Add(this.mainPanel);
