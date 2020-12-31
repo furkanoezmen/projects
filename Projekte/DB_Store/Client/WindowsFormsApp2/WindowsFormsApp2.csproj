@@ -71,6 +71,7 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cipher.cs" />
     <Compile Include="Form0.cs">
       <SubType>Form</SubType>
     </Compile>

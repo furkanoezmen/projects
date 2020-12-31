@@ -95,10 +95,11 @@ namespace WindowsFormsApp2
         {
             var item = com.GetResponseAsync("http://192.168.178.43:3000/222/paypal");
             var url = await item;
-            Char[] trenner = { '+' };
-            string[] splitter = url.Split(trenner);
-            Console.WriteLine(splitter[0]);
-            Form2 form2 = new Form2(splitter[0],com.price,temp2);
+            /* Char[] trenner = { '+' };
+             string[] splitter = url.Split(trenner);
+             Console.WriteLine(splitter[0]);*/
+            url = Cipher.Decrypt(url, "YFpoGQ@$VrUMf64tZ9eg^RiaQSZ^Pw%*");
+            Form2 form2 = new Form2(url,com.price,temp2);
             form2.Show();
         }
 

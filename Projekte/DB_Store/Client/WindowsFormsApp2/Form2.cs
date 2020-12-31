@@ -51,6 +51,7 @@ namespace WindowsFormsApp2
         {
            var item = com.GetResponseAsync("http://192.168.178.43:3000/222/abschluss");
            var test = await item;
+           test = Cipher.Decrypt(test, "YFpoGQ@$VrUMf64tZ9eg^RiaQSZ^Pw%*");
             if (test != "create")
             {
                 timer1.Stop();

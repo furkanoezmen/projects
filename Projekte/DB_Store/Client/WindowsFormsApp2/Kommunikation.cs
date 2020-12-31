@@ -13,12 +13,17 @@ namespace WindowsFormsApp2
     class Kommunikation
     {
         public string price { get; set; }
+        private string key = "YFpoGQ@$VrUMf64tZ9eg^RiaQSZ^Pw%*";
 
         public void PostRequest(string url,string ticket,string ziel,string payid)
         {
             string start = "gummersbachdieringhausen";
             //string ziel = "koelnhbf";
             //string ticketart = "einzelticket1x4";
+            payid = Cipher.Encrypt(payid, key);
+            ziel = Cipher.Encrypt(ziel, key);
+            start = Cipher.Encrypt(start, key);
+            ticket = Cipher.Encrypt(ticket, key);
 
             var httpWebRequest = (HttpWebRequest)WebRequest.Create(url);
             httpWebRequest.ContentType = "application/json";
@@ -26,10 +31,10 @@ namespace WindowsFormsApp2
             using (var streamWriter = new StreamWriter(httpWebRequest.GetRequestStream()))
             {
 
-                string json = "{\"id\":\"" + payid + "\"," +
-                                "\"ziel\":\"" + ziel + "\"," +
-                              "\"start\":\"" + start + "\"," +
-                              "\"ticketart\":\"" + ticket + "\"}";
+                string json = "{\"abc\":\"" + payid + "\"," +
+                                "\"ghi\":\"" + ziel + "\"," +
+                              "\"def\":\"" + start + "\"," +
+                              "\"jkl\":\"" + ticket + "\"}";
 
                 streamWriter.Write(json);
             }
@@ -40,6 +45,7 @@ namespace WindowsFormsApp2
             {
                 var result = streamReader.ReadToEnd();
                 price = result;
+                price = Cipher.Decrypt(price, key);
             }
         }
         public async Task<string> GetResponseAsync(string url)
@@ -50,7 +56,7 @@ namespace WindowsFormsApp2
             Stream stream = response.GetResponseStream();
             StreamReader strReader = new StreamReader(stream);
             string text = await strReader.ReadToEndAsync();
-            // Console.WriteLine(text);
+           
             return text;
         }
         public async Task<string> GetReq(string url)
